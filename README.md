@@ -1,4 +1,8 @@
 # Simple Javascript Modal
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cryancaire/simple-javascript-modal?style=plastic)
+![Lines of code](https://img.shields.io/tokei/lines/github/cryancaire/simple-javascript-modal?style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/cryancaire?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/cryancaire?style=social)
 
 ![Screenshot](/images/screenshot3.png)<br>
 ![Screenshot](/images/screenshot1.png)
@@ -40,3 +44,7 @@ That part is pretty easy! Just follow these steps!
     3. `data-overlay-escape="true"` if set to true, pressing the `Escape` key will close the modal.
     4. `data-modal-width="80vw"` set the width of the modal in any unit, defaults to `30vw` if not present
     5. `data-modal-height="50vh"` set the height of the modal in any unit, defaults to `10vh` if not present.
+
+# About Me
+[![Cryancaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=cryancaire&hide=prs,issues,stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryancaire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
