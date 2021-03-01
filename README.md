@@ -1,6 +1,7 @@
 # Simple Javascript Modal
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cryancaire/simple-javascript-modal?style=plastic)
 ![Lines of code](https://img.shields.io/tokei/lines/github/cryancaire/simple-javascript-modal?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/cryancaire/simple-javascript-modal?style=plastic)
 [![Generic badge](https://img.shields.io/badge/Language-Javascript-yellow.svg?syle=plastic)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Language-CSS-blue.svg?syle=plastic)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Language-HTML-orange.svg?syle=plastic)](https://shields.io/)
