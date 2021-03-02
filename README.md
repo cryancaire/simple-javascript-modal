@@ -31,6 +31,7 @@ That part is pretty easy! Just follow these steps!
 2. Create a simple modal structure
     1. Your modal Id should be unique.
     2. `data-title` is optional and will default to "Dialog" if not present.
+    
     ``
     <modal id="myModal" data-title="My Modal Title">
         This is my modal content! I can put HTML or regular text here!
